@@ -1,2 +1,2 @@
-# Calcu-repo
-Project-1 calculator (Codesoft)
+# Calcu-repo(Codsoft) 
+This is the repository for Codsoft project. 
